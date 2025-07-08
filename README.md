@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Usama Zubair 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%7C+Nest.js+%7C+Vue.js;Real-time+%7C+AI+%7C+Web3+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%7C+Nest.js+%7C+Vue.js;Real-time+%7C+AI+%7C+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
